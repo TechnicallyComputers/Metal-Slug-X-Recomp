@@ -1,0 +1,51 @@
+# Autofilled by tools/new_project_layout/probe_disc.py from your legal dump.
+# Review before shipping. Runtime quirks / overlay seeds still need hand work.
+
+[game]
+name = "Metal Slug X"
+id = "SLUS-01212"
+players = 2
+exe = "disc/SLUS_012.12"
+disc = "disc/Metal Slug X (USA).cue"
+load_address = "0x80010000"
+entry_pc = "0x80082A44"
+text_size = "0x00097800"
+stack_base = "0x801FFFF0"
+
+# Digests are for data Track 01 (first BINARY FILE / TRACK 01).
+[prepare_disc]
+out_dir = "disc"
+bin_name = "Metal Slug X (USA).bin"
+cue_name = "Metal Slug X (USA).cue"
+boot_exe = "SLUS_012.12"
+known_sizes = [104315904]
+known_md5 = [
+  "37d9e1179a32661800e74858009a4f8b",
+]
+known_sha1 = [
+  "f1ea9a0ae2115f476bd4767b1ac0ba9d0b5ac972",
+]
+
+[recompiler]
+seeds = "seeds/ghidra_funcs.txt"
+out_dir = "generated"
+strict = true
+
+[runtime]
+window_title = "Metal Slug X Recompiled"
+memcard_dir = "saves"
+
+[video]
+renderer = "opengl"
+aspect_ratio = "4:3"
+
+[controller]
+default_mode = "digital"
+allow_hybrid = false
+
+# Online mount gate: digests + track count + optional TOC fingerprint
+# (see docs/NETPLAY.md).
+[netplay]
+require_cue = true
+required_tracks = 1
+required_disc_fp = "8b9309c8383a4ed1412362b48959f87407aa96b4aff92ad99242b9ad7340b96e"

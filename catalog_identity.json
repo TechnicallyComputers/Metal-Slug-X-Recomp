@@ -1,0 +1,47 @@
+{
+  "format_version": 1,
+  "game": {
+    "name": "Metal Slug X",
+    "id": "SLUS-01212",
+    "boot_exe": "SLUS_012.12"
+  },
+  "marketing": {
+    "description": "Metal Slug X is a run and gun video game in the Metal Slug series. The PlayStation version was released in North America and PAL regions by Agetec and features the same \"Combat School\" mode featured in the console versions of the first two games.",
+    "publisher": "Agetek, SNK",
+    "year": "2001",
+    "region": "USA",
+    "players": 2
+  },
+  "rom_identity": {
+    "cue_name": "Metal Slug X (USA).cue",
+    "bin_name": "Metal Slug X (USA).bin",
+    "track_counts": [
+      1
+    ],
+    "require_cue": true,
+    "data_track": {
+      "size": 104315904,
+      "md5": "37d9e1179a32661800e74858009a4f8b",
+      "sha1": "f1ea9a0ae2115f476bd4767b1ac0ba9d0b5ac972"
+    },
+    "disc_fp": "8b9309c8383a4ed1412362b48959f87407aa96b4aff92ad99242b9ad7340b96e"
+  },
+  "exe": {
+    "load_address": "0x80010000",
+    "entry_pc": "0x80082A44",
+    "text_size": "0x00097800",
+    "stack_base": "0x801FFFF0"
+  },
+  "seeds": {
+    "count": 1640,
+    "source": "boot_exe_jal"
+  },
+  "warnings": [
+    "cue has only 1 TRACK \u2014 Track-01-only dumps fail multi-track netplay/catalog gates; prefer a full Redump cue."
+  ],
+  "notes": [
+    "entry_pc/load_address/text_size/stack_base taken from PS-X EXE header.",
+    "seeds are first-pass boot-EXE JAL targets (+ entry); expect to grow as overlays / runtime paths are discovered.",
+    "required_disc_fp is psxrecomp-toc-v1 (matches runtime DiscIdentity)."
+  ]
+}
