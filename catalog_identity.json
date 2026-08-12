@@ -1,15 +1,15 @@
 {
   "format_version": 1,
   "game": {
-    "name": "Metal Slug X",
+    "name": "Metal Slug X Recomp",
     "id": "SLUS-01212",
     "boot_exe": "SLUS_012.12"
   },
   "marketing": {
-    "description": "Metal Slug X is a run and gun video game in the Metal Slug series. The PlayStation version was released in North America and PAL regions by Agetec and features the same \"Combat School\" mode featured in the console versions of the first two games.",
-    "publisher": "Agetek, SNK",
-    "year": "2001",
-    "region": "USA",
+    "description": "",
+    "publisher": "",
+    "year": "",
+    "region": "",
     "players": 2
   },
   "rom_identity": {

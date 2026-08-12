@@ -2,7 +2,7 @@
 # Review before shipping. Runtime quirks / overlay seeds still need hand work.
 
 [game]
-name = "Metal Slug X"
+name = "Metal Slug X Recomp"
 id = "SLUS-01212"
 players = 2
 exe = "disc/SLUS_012.12"
@@ -32,7 +32,7 @@ out_dir = "generated"
 strict = true
 
 [runtime]
-window_title = "Metal Slug X Recompiled"
+window_title = "Metal Slug X Recomp Recompiled"
 memcard_dir = "saves"
 
 [video]
@@ -41,12 +41,9 @@ aspect_ratio = "4:3"
 
 [controller]
 default_mode = "digital"
-lock_mode = true
-allow_hybrid = false
 
 # Online mount gate: digests + track count + optional TOC fingerprint
 # (see docs/NETPLAY.md).
-multitap_analog = false
 [netplay]
 require_cue = true
 required_tracks = 1
