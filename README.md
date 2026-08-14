@@ -1,5 +1,16 @@
 # Metal Slug X  Recompiled
 
+<!-- retcomm-readme-metrics -->
+[![GitHub downloads (all assets, all releases)](https://img.shields.io/github/downloads/TechnicallyComputers/Metal-Slug-X-Recomp/total)](https://github.com/TechnicallyComputers/Metal-Slug-X-Recomp/releases)
+[![GitHub downloads (latest release)](https://img.shields.io/github/downloads/TechnicallyComputers/Metal-Slug-X-Recomp/latest/total)](https://github.com/TechnicallyComputers/Metal-Slug-X-Recomp/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/TechnicallyComputers/Metal-Slug-X-Recomp)](https://github.com/TechnicallyComputers/Metal-Slug-X-Recomp/releases/latest)
+
+[![Linux](https://img.shields.io/github/downloads/TechnicallyComputers/Metal-Slug-X-Recomp/latest/msx-%2A-linux-x64.zip)](https://github.com/TechnicallyComputers/Metal-Slug-X-Recomp/releases/latest)
+[![Windows](https://img.shields.io/github/downloads/TechnicallyComputers/Metal-Slug-X-Recomp/latest/msx-%2A-windows-x64.zip)](https://github.com/TechnicallyComputers/Metal-Slug-X-Recomp/releases/latest)
+[![macOS arm64](https://img.shields.io/github/downloads/TechnicallyComputers/Metal-Slug-X-Recomp/latest/msx-%2A-macos-arm64.zip)](https://github.com/TechnicallyComputers/Metal-Slug-X-Recomp/releases/latest)
+[![macOS x64](https://img.shields.io/github/downloads/TechnicallyComputers/Metal-Slug-X-Recomp/latest/msx-%2A-macos-x64.zip)](https://github.com/TechnicallyComputers/Metal-Slug-X-Recomp/releases/latest)
+<!-- /retcomm-readme-metrics -->
+
 Static recompilation of **Metal Slug X** built on
 [psxrecomp](https://github.com/mstan/psxrecomp) and
 [recomp-ui](https://github.com/mstan/recomp-ui).
@@ -16,6 +27,7 @@ Metal Slug X is a run and gun video game in the Metal Slug series. The PlayStati
 Scaffolded with the New Project Layout. See
 `psxrecomp/docs/GAME_PROJECT_SETUP.md` for the full flow.
 
+<!-- retcomm-readme-launcher -->
 ## RetComM Launcher
 
 You can run this title **standalone** (release zip + the built-in recomp-ui
@@ -38,6 +50,7 @@ the Retro Compilation Manager hub for self-compiling recomps.
 RetComM checks for updates, rebuilds with existing build data when possible,
 shares the portable toolchain used by per-title launchers, and automates
 BIOS/ROM/save plumbing so you are not stuck repeating each game’s wizard by hand.
+<!-- /retcomm-readme-launcher -->
 
 ## Legal
 
