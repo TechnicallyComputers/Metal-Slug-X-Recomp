@@ -6,6 +6,12 @@
 [![GitHub release](https://img.shields.io/github/v/release/TechnicallyComputers/Metal-Slug-X-Recomp)](https://github.com/TechnicallyComputers/Metal-Slug-X-Recomp/releases/latest)
 <!-- /retcomm-readme-metrics -->
 
+<!-- retcomm-readme-boxart -->
+<p align="center">
+  <img src="launcher_assets/img/boxart.png" alt="Metal Slug X box art" width="280">
+</p>
+<!-- /retcomm-readme-boxart -->
+
 Static recompilation of **Metal Slug X** built on
 [psxrecomp](https://github.com/mstan/psxrecomp) and
 [recomp-ui](https://github.com/mstan/recomp-ui).
