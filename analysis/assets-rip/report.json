@@ -1,0 +1,1428 @@
+{
+  "serial": "SLUS-01212",
+  "volume": "METALSLUGX",
+  "registry": null,
+  "files": [
+    {
+      "path": "/ANG/CSC.BIN",
+      "size": 858964
+    },
+    {
+      "path": "/ANG/CSC00.BIN",
+      "size": 550672
+    },
+    {
+      "path": "/ANG/CSC01.BIN",
+      "size": 308300
+    },
+    {
+      "path": "/ANG/CSCHOOL.BIN",
+      "size": 177670
+    },
+    {
+      "path": "/ANG/M1/MI01STD.BIN",
+      "size": 205736
+    },
+    {
+      "path": "/ANG/M1/MI01_00.BIN",
+      "size": 218208
+    },
+    {
+      "path": "/ANG/M1/MI02STD.BIN",
+      "size": 131512
+    },
+    {
+      "path": "/ANG/M1/MI02_00.BIN",
+      "size": 188476
+    },
+    {
+      "path": "/ANG/M1/MI03STD.BIN",
+      "size": 271276
+    },
+    {
+      "path": "/ANG/M1/MI03_00.BIN",
+      "size": 117008
+    },
+    {
+      "path": "/ANG/M1/MI04STD.BIN",
+      "size": 74196
+    },
+    {
+      "path": "/ANG/M1/MI04_00.BIN",
+      "size": 218800
+    },
+    {
+      "path": "/ANG/M1/MI05STD.BIN",
+      "size": 131512
+    },
+    {
+      "path": "/ANG/M1/MI05_00.BIN",
+      "size": 131024
+    },
+    {
+      "path": "/ANG/M1/MISS01.BIN",
+      "size": 41532
+    },
+    {
+      "path": "/ANG/M1/MISS02.BIN",
+      "size": 14272
+    },
+    {
+      "path": "/ANG/M1/MISS03.BIN",
+      "size": 43172
+    },
+    {
+      "path": "/ANG/M1/MISS04.BIN",
+      "size": 43336
+    },
+    {
+      "path": "/ANG/M1/MISS05.BIN",
+      "size": 13788
+    },
+    {
+      "path": "/ANG/M2/MI06STD.BIN",
+      "size": 33276
+    },
+    {
+      "path": "/ANG/M2/MI06_00.BIN",
+      "size": 63048
+    },
+    {
+      "path": "/ANG/M2/MI07STD.BIN",
+      "size": 74196
+    },
+    {
+      "path": "/ANG/M2/MI07_00.BIN",
+      "size": 221284
+    },
+    {
+      "path": "/ANG/M2/MI08STD.BIN",
+      "size": 33308
+    },
+    {
+      "path": "/ANG/M2/MI08_00.BIN",
+      "size": 179100
+    },
+    {
+      "path": "/ANG/M2/MI09STD.BIN",
+      "size": 33276
+    },
+    {
+      "path": "/ANG/M2/MI09_00.BIN",
+      "size": 194048
+    },
+    {
+      "path": "/ANG/M2/MI10STD.BIN",
+      "size": 33276
+    },
+    {
+      "path": "/ANG/M2/MI10_00.BIN",
+      "size": 237920
+    },
+    {
+      "path": "/ANG/M2/MISS06.BIN",
+      "size": 19136
+    },
+    {
+      "path": "/ANG/M2/MISS07.BIN",
+      "size": 40392
+    },
+    {
+      "path": "/ANG/M2/MISS08.BIN",
+      "size": 43340
+    },
+    {
+      "path": "/ANG/M2/MISS09.BIN",
+      "size": 19768
+    },
+    {
+      "path": "/ANG/M2/MISS10.BIN",
+      "size": 29212
+    },
+    {
+      "path": "/ANG/M3/MI11STD.BIN",
+      "size": 120376
+    },
+    {
+      "path": "/ANG/M3/MI11_00.BIN",
+      "size": 246792
+    },
+    {
+      "path": "/ANG/M3/MI12STD.BIN",
+      "size": 74196
+    },
+    {
+      "path": "/ANG/M3/MI12_00.BIN",
+      "size": 176564
+    },
+    {
+      "path": "/ANG/M3/MI13STD.BIN",
+      "size": 33276
+    },
+    {
+      "path": "/ANG/M3/MI13_00.BIN",
+      "size": 99840
+    },
+    {
+      "path": "/ANG/M3/MI14STD.BIN",
+      "size": 30300
+    },
+    {
+      "path": "/ANG/M3/MI14_00.BIN",
+      "size": 298312
+    },
+    {
+      "path": "/ANG/M3/MI15STD.BIN",
+      "size": 172432
+    },
+    {
+      "path": "/ANG/M3/MI15_00.BIN",
+      "size": 343132
+    },
+    {
+      "path": "/ANG/M3/MISS11.BIN",
+      "size": 26816
+    },
+    {
+      "path": "/ANG/M3/MISS12.BIN",
+      "size": 68400
+    },
+    {
+      "path": "/ANG/M3/MISS13.BIN",
+      "size": 34708
+    },
+    {
+      "path": "/ANG/M3/MISS14.BIN",
+      "size": 23696
+    },
+    {
+      "path": "/ANG/M3/MISS15.BIN",
+      "size": 52272
+    },
+    {
+      "path": "/ANG/M4/MI16STD.BIN",
+      "size": 74260
+    },
+    {
+      "path": "/ANG/M4/MI16_00.BIN",
+      "size": 227228
+    },
+    {
+      "path": "/ANG/M4/MI17STD.BIN",
+      "size": 33308
+    },
+    {
+      "path": "/ANG/M4/MI17_00.BIN",
+      "size": 231500
+    },
+    {
+      "path": "/ANG/M4/MI18STD.BIN",
+      "size": 136788
+    },
+    {
+      "path": "/ANG/M4/MI18_00.BIN",
+      "size": 274752
+    },
+    {
+      "path": "/ANG/M4/MI19STD.BIN",
+      "size": 172432
+    },
+    {
+      "path": "/ANG/M4/MI19_00.BIN",
+      "size": 175884
+    },
+    {
+      "path": "/ANG/M4/MI20STD.BIN",
+      "size": 74196
+    },
+    {
+      "path": "/ANG/M4/MI20_00.BIN",
+      "size": 313548
+    },
+    {
+      "path": "/ANG/M4/MISS16.BIN",
+      "size": 39904
+    },
+    {
+      "path": "/ANG/M4/MISS17.BIN",
+      "size": 22140
+    },
+    {
+      "path": "/ANG/M4/MISS18.BIN",
+      "size": 44616
+    },
+    {
+      "path": "/ANG/M4/MISS19.BIN",
+      "size": 37612
+    },
+    {
+      "path": "/ANG/M4/MISS20.BIN",
+      "size": 41772
+    },
+    {
+      "path": "/ANG/MIMN.BIN",
+      "size": 237324
+    },
+    {
+      "path": "/ANG/MISSMN.BIN",
+      "size": 11600
+    },
+    {
+      "path": "/ANG/SND/SEQ_M1.BIN",
+      "size": 69884
+    },
+    {
+      "path": "/ANG/SND/SEQ_M2.BIN",
+      "size": 64904
+    },
+    {
+      "path": "/ANG/SND/SEQ_M21.BIN",
+      "size": 12072
+    },
+    {
+      "path": "/ANG/SND/SEQ_M23.BIN",
+      "size": 18232
+    },
+    {
+      "path": "/ANG/SND/SEQ_M2B.BIN",
+      "size": 16328
+    },
+    {
+      "path": "/ANG/SND/SEQ_M3.BIN",
+      "size": 125536
+    },
+    {
+      "path": "/ANG/SND/SEQ_M4.BIN",
+      "size": 93612
+    },
+    {
+      "path": "/ANG/SND/SEQ_M5.BIN",
+      "size": 66364
+    },
+    {
+      "path": "/ANG/SND/SEQ_M51.BIN",
+      "size": 10656
+    },
+    {
+      "path": "/ANG/SND/SEQ_M52.BIN",
+      "size": 16076
+    },
+    {
+      "path": "/ANG/SND/SEQ_M53.BIN",
+      "size": 2180
+    },
+    {
+      "path": "/ANG/SND/SEQ_M6.BIN",
+      "size": 69396
+    },
+    {
+      "path": "/ANG/SND/SEQ_M61.BIN",
+      "size": 30024
+    },
+    {
+      "path": "/ANG/SND/SEQ_M62.BIN",
+      "size": 11280
+    },
+    {
+      "path": "/ANG/SND/SEQ_M63.BIN",
+      "size": 26156
+    },
+    {
+      "path": "/ANG/SND/SEQ_M7.BIN",
+      "size": 118368
+    },
+    {
+      "path": "/ANG/SND/VAB_M1.BIN",
+      "size": 513664
+    },
+    {
+      "path": "/ANG/SND/VAB_M2.BIN",
+      "size": 519392
+    },
+    {
+      "path": "/ANG/SND/VAB_M3.BIN",
+      "size": 519808
+    },
+    {
+      "path": "/ANG/SND/VAB_M4.BIN",
+      "size": 499376
+    },
+    {
+      "path": "/ANG/SND/VAB_M5.BIN",
+      "size": 496448
+    },
+    {
+      "path": "/ANG/SND/VAB_M6.BIN",
+      "size": 519648
+    },
+    {
+      "path": "/ANG/SND/VAB_M7.BIN",
+      "size": 430736
+    },
+    {
+      "path": "/ART/ART.BAK",
+      "size": 16460
+    },
+    {
+      "path": "/ART/ART.BIN",
+      "size": 15468
+    },
+    {
+      "path": "/ART/ARTG.BIN",
+      "size": 30704
+    },
+    {
+      "path": "/ART/ARTGAL.BIN",
+      "size": 7473152
+    },
+    {
+      "path": "/ART/ARTSEQ.BIN",
+      "size": 284672
+    },
+    {
+      "path": "/ART/ARTVAB.BIN",
+      "size": 3989504
+    },
+    {
+      "path": "/BONUS.BIN",
+      "size": 59980
+    },
+    {
+      "path": "/ENDING.BIN",
+      "size": 28582
+    },
+    {
+      "path": "/ENEMY.BIN",
+      "size": 115400
+    },
+    {
+      "path": "/LD/WAIT_C.BIN",
+      "size": 17224
+    },
+    {
+      "path": "/LD/WAIT_M.BIN",
+      "size": 21384
+    },
+    {
+      "path": "/LD/WAIT_S1.BIN",
+      "size": 29448
+    },
+    {
+      "path": "/LD/WAIT_S2.BIN",
+      "size": 29480
+    },
+    {
+      "path": "/LD/WAIT_S3.BIN",
+      "size": 29448
+    },
+    {
+      "path": "/LD/WAIT_S4.BIN",
+      "size": 29480
+    },
+    {
+      "path": "/LD/WAIT_S5.BIN",
+      "size": 29448
+    },
+    {
+      "path": "/LD/WAIT_S6.BIN",
+      "size": 29448
+    },
+    {
+      "path": "/LD/WAIT_T1.BIN",
+      "size": 21320
+    },
+    {
+      "path": "/LD/WAIT_T2.BIN",
+      "size": 19176
+    },
+    {
+      "path": "/LD/WAIT_T3.BIN",
+      "size": 25352
+    },
+    {
+      "path": "/LD/WAIT_T4.BIN",
+      "size": 20584
+    },
+    {
+      "path": "/LD/WAIT_T5.BIN",
+      "size": 21352
+    },
+    {
+      "path": "/LD/WAIT_T6.BIN",
+      "size": 27304
+    },
+    {
+      "path": "/LD/WAIT_T7.BIN",
+      "size": 31432
+    },
+    {
+      "path": "/LD/WAIT_T8.BIN",
+      "size": 27464
+    },
+    {
+      "path": "/LD/WAIT_T9.BIN",
+      "size": 23368
+    },
+    {
+      "path": "/LOADING.BIN",
+      "size": 4084
+    },
+    {
+      "path": "/MCARD.BIN",
+      "size": 27456
+    },
+    {
+      "path": "/MISSION.BIN",
+      "size": 21252
+    },
+    {
+      "path": "/PL/PAT1A.BIN",
+      "size": 32632
+    },
+    {
+      "path": "/PL/PAT1B.BIN",
+      "size": 32632
+    },
+    {
+      "path": "/PL/PAT2A.BIN",
+      "size": 32892
+    },
+    {
+      "path": "/PL/PAT2B.BIN",
+      "size": 32892
+    },
+    {
+      "path": "/PL/PAT3A.BIN",
+      "size": 33944
+    },
+    {
+      "path": "/PL/PAT3B.BIN",
+      "size": 33944
+    },
+    {
+      "path": "/PL/PAT4A.BIN",
+      "size": 35664
+    },
+    {
+      "path": "/PL/PAT4B.BIN",
+      "size": 35664
+    },
+    {
+      "path": "/RANKING.BIN",
+      "size": 53872
+    },
+    {
+      "path": "/SLUS_012.12",
+      "size": 622592
+    },
+    {
+      "path": "/ST01/SEQ01.BIN",
+      "size": 69884
+    },
+    {
+      "path": "/ST01/ST01.BIN",
+      "size": 275284
+    },
+    {
+      "path": "/ST01/VAB01.BIN",
+      "size": 513664
+    },
+    {
+      "path": "/ST01/X1.BIN",
+      "size": 405388
+    },
+    {
+      "path": "/ST01/X1_00.BIN",
+      "size": 75032
+    },
+    {
+      "path": "/ST01/X1_01.BIN",
+      "size": 16444
+    },
+    {
+      "path": "/ST01/X1_02.BIN",
+      "size": 99360
+    },
+    {
+      "path": "/ST01/X1_03.BIN",
+      "size": 135096
+    },
+    {
+      "path": "/ST01/X1_040.BIN",
+      "size": 138452
+    },
+    {
+      "path": "/ST01/X1_041.BIN",
+      "size": 66592
+    },
+    {
+      "path": "/ST01/X1_042.BIN",
+      "size": 65756
+    },
+    {
+      "path": "/ST01/X1_043.BIN",
+      "size": 23100
+    },
+    {
+      "path": "/ST01/X1_05.BIN",
+      "size": 74392
+    },
+    {
+      "path": "/ST01/X1_0610.BIN",
+      "size": 32024
+    },
+    {
+      "path": "/ST01/X1_0611.BIN",
+      "size": 24696
+    },
+    {
+      "path": "/ST01/X1_062.BIN",
+      "size": 65880
+    },
+    {
+      "path": "/ST01/X1_063.BIN",
+      "size": 8252
+    },
+    {
+      "path": "/ST01/X1_07.BIN",
+      "size": 9496
+    },
+    {
+      "path": "/ST01/X1_080.BIN",
+      "size": 16444
+    },
+    {
+      "path": "/ST01/X1_081.BIN",
+      "size": 66464
+    },
+    {
+      "path": "/ST01/X1_090.BIN",
+      "size": 98352
+    },
+    {
+      "path": "/ST01/X1_091.BIN",
+      "size": 92984
+    },
+    {
+      "path": "/ST01/X1_092.BIN",
+      "size": 24700
+    },
+    {
+      "path": "/ST01/X1_10.BIN",
+      "size": 82544
+    },
+    {
+      "path": "/ST01/X1_999.BIN",
+      "size": 191288
+    },
+    {
+      "path": "/ST02/SEQ021.BIN",
+      "size": 76976
+    },
+    {
+      "path": "/ST02/ST02.BIN",
+      "size": 91368
+    },
+    {
+      "path": "/ST02/ST02A.BIN",
+      "size": 15624
+    },
+    {
+      "path": "/ST02/VAB02.BIN",
+      "size": 519392
+    },
+    {
+      "path": "/ST02/X21.BIN",
+      "size": 292664
+    },
+    {
+      "path": "/ST02/X21_00.BIN",
+      "size": 112472
+    },
+    {
+      "path": "/ST02/_2/ST02B.BIN",
+      "size": 52613
+    },
+    {
+      "path": "/ST02/_2/X22.BIN",
+      "size": 400404
+    },
+    {
+      "path": "/ST02/_2/X22_00.BIN",
+      "size": 141984
+    },
+    {
+      "path": "/ST02/_2/X22_01.BIN",
+      "size": 98720
+    },
+    {
+      "path": "/ST02/_2/X22_02.BIN",
+      "size": 78520
+    },
+    {
+      "path": "/ST02/_3/SEQ023.BIN",
+      "size": 18232
+    },
+    {
+      "path": "/ST02/_3/ST02C.BIN",
+      "size": 83812
+    },
+    {
+      "path": "/ST02/_3/X23.BIN",
+      "size": 509956
+    },
+    {
+      "path": "/ST02/_3/X23_00.BIN",
+      "size": 300540
+    },
+    {
+      "path": "/ST02/_3/X23_01.BIN",
+      "size": 32864
+    },
+    {
+      "path": "/ST02/_3/X23_011.BIN",
+      "size": 77040
+    },
+    {
+      "path": "/ST02/_3/X23_02.BIN",
+      "size": 65856
+    },
+    {
+      "path": "/ST02/_3/X23_03.BIN",
+      "size": 33120
+    },
+    {
+      "path": "/ST02/_3/X23_04.BIN",
+      "size": 82092
+    },
+    {
+      "path": "/ST02/_3/X23_050.BIN",
+      "size": 31904
+    },
+    {
+      "path": "/ST02/_3/X23_051.BIN",
+      "size": 32736
+    },
+    {
+      "path": "/ST02/_3/X23_052.BIN",
+      "size": 32736
+    },
+    {
+      "path": "/ST02/_3/X23_053.BIN",
+      "size": 32736
+    },
+    {
+      "path": "/ST02/_3/X23_054.BIN",
+      "size": 32736
+    },
+    {
+      "path": "/ST02/_3/X23_061.BIN",
+      "size": 92720
+    },
+    {
+      "path": "/ST02/_3/X23_062.BIN",
+      "size": 129752
+    },
+    {
+      "path": "/ST02/_3/X23_063.BIN",
+      "size": 16328
+    },
+    {
+      "path": "/ST02/_3/X23_999.BIN",
+      "size": 222424
+    },
+    {
+      "path": "/ST03/SEQ03.BIN",
+      "size": 125536
+    },
+    {
+      "path": "/ST03/ST03.BIN",
+      "size": 244076
+    },
+    {
+      "path": "/ST03/ST03A.BIN",
+      "size": 32476
+    },
+    {
+      "path": "/ST03/VAB03.BIN",
+      "size": 519808
+    },
+    {
+      "path": "/ST03/X3.BIN",
+      "size": 447400
+    },
+    {
+      "path": "/ST03/_0/X3_00.BIN",
+      "size": 32544
+    },
+    {
+      "path": "/ST03/_0/X3_01.BIN",
+      "size": 33216
+    },
+    {
+      "path": "/ST03/_0/X3_0211.BIN",
+      "size": 49496
+    },
+    {
+      "path": "/ST03/_0/X3_0212.BIN",
+      "size": 20020
+    },
+    {
+      "path": "/ST03/_0/X3_022.BIN",
+      "size": 9796
+    },
+    {
+      "path": "/ST03/_0/X3_023.BIN",
+      "size": 33216
+    },
+    {
+      "path": "/ST03/_0/X3_031.BIN",
+      "size": 82744
+    },
+    {
+      "path": "/ST03/_0/X3_032.BIN",
+      "size": 66240
+    },
+    {
+      "path": "/ST03/_0/X3_041.BIN",
+      "size": 79576
+    },
+    {
+      "path": "/ST03/_0/X3_05.BIN",
+      "size": 33280
+    },
+    {
+      "path": "/ST03/_0/X3_060.BIN",
+      "size": 30172
+    },
+    {
+      "path": "/ST03/_0/X3_061.BIN",
+      "size": 65312
+    },
+    {
+      "path": "/ST03/_0/X3_062.BIN",
+      "size": 63272
+    },
+    {
+      "path": "/ST03/_0/X3_063.BIN",
+      "size": 66232
+    },
+    {
+      "path": "/ST03/_0/X3_064.BIN",
+      "size": 72840
+    },
+    {
+      "path": "/ST03/_0/X3_080.BIN",
+      "size": 64656
+    },
+    {
+      "path": "/ST03/_0/X3_0801.BIN",
+      "size": 20140
+    },
+    {
+      "path": "/ST03/_0/X3_081.BIN",
+      "size": 80428
+    },
+    {
+      "path": "/ST03/_0/X3_082.BIN",
+      "size": 81428
+    },
+    {
+      "path": "/ST03/_0/X3_083.BIN",
+      "size": 65908
+    },
+    {
+      "path": "/ST03/_0/X3_090.BIN",
+      "size": 130872
+    },
+    {
+      "path": "/ST03/_0/X3_091.BIN",
+      "size": 6680
+    },
+    {
+      "path": "/ST03/_0/X3_092.BIN",
+      "size": 6680
+    },
+    {
+      "path": "/ST03/_0/X3_093.BIN",
+      "size": 6680
+    },
+    {
+      "path": "/ST03/_0/X3_094.BIN",
+      "size": 6680
+    },
+    {
+      "path": "/ST03/_0/X3__1.BIN",
+      "size": 9904
+    },
+    {
+      "path": "/ST03/_0/X3__2.BIN",
+      "size": 24896
+    },
+    {
+      "path": "/ST03/_1/X3_10.BIN",
+      "size": 109988
+    },
+    {
+      "path": "/ST03/_1/X3_1110.BIN",
+      "size": 98352
+    },
+    {
+      "path": "/ST03/_1/X3_1111.BIN",
+      "size": 98588
+    },
+    {
+      "path": "/ST03/_1/X3_112.BIN",
+      "size": 73752
+    },
+    {
+      "path": "/ST03/_1/X3_113.BIN",
+      "size": 104720
+    },
+    {
+      "path": "/ST03/_1/X3_115.BIN",
+      "size": 69836
+    },
+    {
+      "path": "/ST03/_1/X3_116.BIN",
+      "size": 33872
+    },
+    {
+      "path": "/ST03/_1/X3_12.BIN",
+      "size": 51612
+    },
+    {
+      "path": "/ST03/_1/X3_998.BIN",
+      "size": 178272
+    },
+    {
+      "path": "/ST03/_1/X3_999.BIN",
+      "size": 262360
+    },
+    {
+      "path": "/ST04/SEQ04.BIN",
+      "size": 93660
+    },
+    {
+      "path": "/ST04/ST04.BIN",
+      "size": 162762
+    },
+    {
+      "path": "/ST04/VAB04.BIN",
+      "size": 499376
+    },
+    {
+      "path": "/ST04/_0/X4.BIN",
+      "size": 370852
+    },
+    {
+      "path": "/ST04/_0/X4_000.BIN",
+      "size": 21328
+    },
+    {
+      "path": "/ST04/_0/X4_001.BIN",
+      "size": 9688
+    },
+    {
+      "path": "/ST04/_0/X4_002.BIN",
+      "size": 23700
+    },
+    {
+      "path": "/ST04/_0/X4_003.BIN",
+      "size": 73236
+    },
+    {
+      "path": "/ST04/_0/X4_004.BIN",
+      "size": 114276
+    },
+    {
+      "path": "/ST04/_0/X4_01.BIN",
+      "size": 73912
+    },
+    {
+      "path": "/ST04/_0/X4_010.BIN",
+      "size": 54524
+    },
+    {
+      "path": "/ST04/_0/X4_011.BIN",
+      "size": 66528
+    },
+    {
+      "path": "/ST04/_0/X4_021.BIN",
+      "size": 49492
+    },
+    {
+      "path": "/ST04/_0/X4_022.BIN",
+      "size": 65972
+    },
+    {
+      "path": "/ST04/_0/X4_023.BIN",
+      "size": 43956
+    },
+    {
+      "path": "/ST04/_0/X4_031.BIN",
+      "size": 40384
+    },
+    {
+      "path": "/ST04/_0/X4_032.BIN",
+      "size": 75108
+    },
+    {
+      "path": "/ST04/_0/X4_033.BIN",
+      "size": 45288
+    },
+    {
+      "path": "/ST04/_0/X4_04.BIN",
+      "size": 4
+    },
+    {
+      "path": "/ST04/_0/X4_040.BIN",
+      "size": 25936
+    },
+    {
+      "path": "/ST04/_0/X4_041.BIN",
+      "size": 33084
+    },
+    {
+      "path": "/ST04/_0/X4_042.BIN",
+      "size": 14312
+    },
+    {
+      "path": "/ST04/_0/X4_043.BIN",
+      "size": 65952
+    },
+    {
+      "path": "/ST04/_0/X4_050.BIN",
+      "size": 32984
+    },
+    {
+      "path": "/ST04/_1/X4_051.BIN",
+      "size": 51276
+    },
+    {
+      "path": "/ST04/_1/X4_052.BIN",
+      "size": 33088
+    },
+    {
+      "path": "/ST04/_1/X4_053.BIN",
+      "size": 65952
+    },
+    {
+      "path": "/ST04/_1/X4_06.BIN",
+      "size": 65756
+    },
+    {
+      "path": "/ST04/_1/X4_070.BIN",
+      "size": 19076
+    },
+    {
+      "path": "/ST04/_1/X4_071.BIN",
+      "size": 16536
+    },
+    {
+      "path": "/ST04/_1/X4_072.BIN",
+      "size": 24700
+    },
+    {
+      "path": "/ST04/_1/X4_073.BIN",
+      "size": 32896
+    },
+    {
+      "path": "/ST04/_1/X4_074.BIN",
+      "size": 9648
+    },
+    {
+      "path": "/ST04/_1/X4_080.BIN",
+      "size": 88280
+    },
+    {
+      "path": "/ST04/_1/X4_081.BIN",
+      "size": 65568
+    },
+    {
+      "path": "/ST04/_1/X4_082.BIN",
+      "size": 65568
+    },
+    {
+      "path": "/ST04/_1/X4_083.BIN",
+      "size": 65836
+    },
+    {
+      "path": "/ST04/_1/X4_084.BIN",
+      "size": 53596
+    },
+    {
+      "path": "/ST04/_1/X4_085.BIN",
+      "size": 56456
+    },
+    {
+      "path": "/ST04/_1/X4_999.BIN",
+      "size": 229912
+    },
+    {
+      "path": "/ST05/SEQ05.BIN",
+      "size": 77020
+    },
+    {
+      "path": "/ST05/ST05.BIN",
+      "size": 125184
+    },
+    {
+      "path": "/ST05/VAB05.BIN",
+      "size": 496448
+    },
+    {
+      "path": "/ST05/_1/SEQ051.BIN",
+      "size": 10656
+    },
+    {
+      "path": "/ST05/_1/ST05A.BIN",
+      "size": 99460
+    },
+    {
+      "path": "/ST05/_1/X51.BIN",
+      "size": 444916
+    },
+    {
+      "path": "/ST05/_1/X51_001.BIN",
+      "size": 54248
+    },
+    {
+      "path": "/ST05/_1/X51_002.BIN",
+      "size": 65756
+    },
+    {
+      "path": "/ST05/_1/X51_01.BIN",
+      "size": 32988
+    },
+    {
+      "path": "/ST05/_1/X51_02.BIN",
+      "size": 16444
+    },
+    {
+      "path": "/ST05/_1/X51_03.BIN",
+      "size": 36056
+    },
+    {
+      "path": "/ST05/_2/SEQ052.BIN",
+      "size": 16076
+    },
+    {
+      "path": "/ST05/_2/ST05B.BIN",
+      "size": 114196
+    },
+    {
+      "path": "/ST05/_2/X52.BIN",
+      "size": 446712
+    },
+    {
+      "path": "/ST05/_2/X52_00.BIN",
+      "size": 113220
+    },
+    {
+      "path": "/ST05/_3/SEQ053.BIN",
+      "size": 26880
+    },
+    {
+      "path": "/ST05/_3/ST05C.BIN",
+      "size": 124358
+    },
+    {
+      "path": "/ST05/_3/X53.BIN",
+      "size": 513088
+    },
+    {
+      "path": "/ST05/_3/X53_00.BIN",
+      "size": 99820
+    },
+    {
+      "path": "/ST05/_3/X53_000.BIN",
+      "size": 31904
+    },
+    {
+      "path": "/ST05/_3/X53_001.BIN",
+      "size": 32736
+    },
+    {
+      "path": "/ST05/_3/X53_002.BIN",
+      "size": 32736
+    },
+    {
+      "path": "/ST05/_3/X53_003.BIN",
+      "size": 32736
+    },
+    {
+      "path": "/ST05/_3/X53_004.BIN",
+      "size": 32736
+    },
+    {
+      "path": "/ST05/_3/X53_011.BIN",
+      "size": 131544
+    },
+    {
+      "path": "/ST05/_3/X53_012.BIN",
+      "size": 98352
+    },
+    {
+      "path": "/ST05/_3/X53_013.BIN",
+      "size": 100356
+    },
+    {
+      "path": "/ST05/_3/X53_02.BIN",
+      "size": 122164
+    },
+    {
+      "path": "/ST05/_3/X53_999.BIN",
+      "size": 328500
+    },
+    {
+      "path": "/ST06/SEQ06.BIN",
+      "size": 99420
+    },
+    {
+      "path": "/ST06/ST06.BIN",
+      "size": 74434
+    },
+    {
+      "path": "/ST06/VAB06.BIN",
+      "size": 519648
+    },
+    {
+      "path": "/ST06/_1/ST06A.BIN",
+      "size": 122668
+    },
+    {
+      "path": "/ST06/_1/X61.BIN",
+      "size": 548412
+    },
+    {
+      "path": "/ST06/_1/X61_000.BIN",
+      "size": 5000
+    },
+    {
+      "path": "/ST06/_1/X61_001.BIN",
+      "size": 126988
+    },
+    {
+      "path": "/ST06/_1/X61_01.BIN",
+      "size": 294428
+    },
+    {
+      "path": "/ST06/_1/X61_02.BIN",
+      "size": 66048
+    },
+    {
+      "path": "/ST06/_1/X61_030.BIN",
+      "size": 32173
+    },
+    {
+      "path": "/ST06/_1/X61_031.BIN",
+      "size": 209984
+    },
+    {
+      "path": "/ST06/_1/X61_041.BIN",
+      "size": 97576
+    },
+    {
+      "path": "/ST06/_1/X61_042.BIN",
+      "size": 156964
+    },
+    {
+      "path": "/ST06/_2/ST06B.BIN",
+      "size": 135045
+    },
+    {
+      "path": "/ST06/_2/X62.BIN",
+      "size": 444376
+    },
+    {
+      "path": "/ST06/_2/X62_000.BIN",
+      "size": 67744
+    },
+    {
+      "path": "/ST06/_2/X62_001.BIN",
+      "size": 65948
+    },
+    {
+      "path": "/ST06/_2/X62_002.BIN",
+      "size": 66336
+    },
+    {
+      "path": "/ST06/_2/X62_003.BIN",
+      "size": 48504
+    },
+    {
+      "path": "/ST06/_3/ST06C.BIN",
+      "size": 364332
+    },
+    {
+      "path": "/ST06/_3/X63.BIN",
+      "size": 379936
+    },
+    {
+      "path": "/ST06/_3/X63_001.BIN",
+      "size": 99296
+    },
+    {
+      "path": "/ST06/_3/X63_002.BIN",
+      "size": 71480
+    },
+    {
+      "path": "/ST06/_3/X63_011.BIN",
+      "size": 48364
+    },
+    {
+      "path": "/ST06/_3/X63_012.BIN",
+      "size": 35940
+    },
+    {
+      "path": "/ST06/_3/X63_013.BIN",
+      "size": 53900
+    },
+    {
+      "path": "/ST06/_3/X63_021.BIN",
+      "size": 66076
+    },
+    {
+      "path": "/ST06/_3/X63_022.BIN",
+      "size": 41208
+    },
+    {
+      "path": "/ST06/_3/X63_023.BIN",
+      "size": 38228
+    },
+    {
+      "path": "/ST06/_3/X63_03.BIN",
+      "size": 65756
+    },
+    {
+      "path": "/ST06/_3/X63_04.BIN",
+      "size": 57924
+    },
+    {
+      "path": "/STD/CAM01.BIN",
+      "size": 18284
+    },
+    {
+      "path": "/STD/CAM02.BIN",
+      "size": 18284
+    },
+    {
+      "path": "/STD/CAM03.BIN",
+      "size": 18284
+    },
+    {
+      "path": "/STD/CAM04.BIN",
+      "size": 18284
+    },
+    {
+      "path": "/STD/ED00.BIN",
+      "size": 704336
+    },
+    {
+      "path": "/STD/ED01.BIN",
+      "size": 817632
+    },
+    {
+      "path": "/STD/ED02.BIN",
+      "size": 817632
+    },
+    {
+      "path": "/STD/ED03.BIN",
+      "size": 817632
+    },
+    {
+      "path": "/STD/ED04.BIN",
+      "size": 817632
+    },
+    {
+      "path": "/STD/FAT01.BIN",
+      "size": 96680
+    },
+    {
+      "path": "/STD/FAT02.BIN",
+      "size": 96680
+    },
+    {
+      "path": "/STD/FAT03.BIN",
+      "size": 96680
+    },
+    {
+      "path": "/STD/FAT04.BIN",
+      "size": 96680
+    },
+    {
+      "path": "/STD/GO00.BIN",
+      "size": 49696
+    },
+    {
+      "path": "/STD/MUM01.BIN",
+      "size": 49560
+    },
+    {
+      "path": "/STD/MUM02.BIN",
+      "size": 49560
+    },
+    {
+      "path": "/STD/MUM03.BIN",
+      "size": 49560
+    },
+    {
+      "path": "/STD/MUM04.BIN",
+      "size": 49560
+    },
+    {
+      "path": "/STD/STD00.BIN",
+      "size": 80712
+    },
+    {
+      "path": "/STD/STD01.BIN",
+      "size": 210676
+    },
+    {
+      "path": "/STD/STD02.BIN",
+      "size": 218036
+    },
+    {
+      "path": "/STD/STD03.BIN",
+      "size": 203300
+    },
+    {
+      "path": "/STD/STD04.BIN",
+      "size": 221940
+    },
+    {
+      "path": "/STD/TI00.BIN",
+      "size": 558812
+    },
+    {
+      "path": "/STD/TI01.BIN",
+      "size": 513776
+    },
+    {
+      "path": "/STD/_VHIECLE.BIN",
+      "size": 412004
+    },
+    {
+      "path": "/SYSTEM.CNF",
+      "size": 69
+    },
+    {
+      "path": "/TITLE.BIN",
+      "size": 26328
+    },
+    {
+      "path": "/X09.BIN",
+      "size": 4976016
+    },
+    {
+      "path": "/X801.BIN",
+      "size": 29856096
+    }
+  ],
+  "decoded": {
+    "tim": 973,
+    "vag": 0
+  },
+  "packed_entries": 0
+}
