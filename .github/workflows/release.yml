@@ -509,7 +509,7 @@ jobs:
           name: msx-${{ matrix.artifact }}
           path: dist/msx-*-${{ matrix.artifact }}.zip
           if-no-files-found: error
-          retention-days: 30
+          retention-days: 5
 
   release:
     name: GitHub Release
